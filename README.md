@@ -1,4 +1,4 @@
-# Web3 Decentralized Exchange
+# TOKEN SWAP DEX
 
 In this project, I built a fully functional Web3 Decentralized Exchange from start to finish. The exchange allows users to swap ERC20 tokens to other ERC20 tokens on a selected EVM Chain.
 
